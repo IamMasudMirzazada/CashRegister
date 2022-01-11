@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\task Cash\Cash\Cash\bin\Debug\netcoreapp3.1\Cash.exe
+C:\Users\HP\Desktop\task Cash\Cash\Cash\bin\Debug\netcoreapp3.1\Cash.deps.json
+C:\Users\HP\Desktop\task Cash\Cash\Cash\bin\Debug\netcoreapp3.1\Cash.runtimeconfig.json
+C:\Users\HP\Desktop\task Cash\Cash\Cash\bin\Debug\netcoreapp3.1\Cash.runtimeconfig.dev.json
+C:\Users\HP\Desktop\task Cash\Cash\Cash\bin\Debug\netcoreapp3.1\Cash.dll
+C:\Users\HP\Desktop\task Cash\Cash\Cash\bin\Debug\netcoreapp3.1\Cash.pdb
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.AssemblyInfo.cs
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.dll
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.pdb
+C:\Users\HP\Desktop\task Cash\Cash\Cash\obj\Debug\netcoreapp3.1\Cash.genruntimeconfig.cache
